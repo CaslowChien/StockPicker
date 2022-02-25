@@ -39,6 +39,7 @@ Download the "CaslowStockPicker.zip" and unzip it.
 
 
 **How To Use It?**
+
 After executing "CaslowStockSelector.exe", A window will pop up.
 Choose the started date you want, click "Get Date".
 Comfirm the date, and click "Continue after Getting Date".
