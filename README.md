@@ -7,7 +7,7 @@
 
 **下載說明**
 
-請點選本頁面右側「Releases」，下載 StockPicker.zip。解壓縮後執行裡面的 CaslowStockSelector.exe 檔案。
+請點選本頁面右側「Releases」，下載 CaslowStockPickerStockPicker.zip。解壓縮後執行裡面的 CaslowStockSelector.exe 檔案。
 
 
 **使用說明**
@@ -35,7 +35,7 @@ You can choose the started date you want!
 **How To Download It?**
 
 There's a release on the right side of the page.
-Download the "StockPicker.zip" and unzip it.
+Download the "CaslowStockPicker.zip" and unzip it.
 
 
 **How To Use It?**
