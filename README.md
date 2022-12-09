@@ -7,7 +7,7 @@
 
 **下載說明**
 
-請點選右側Release，下載 CaslowStockPickerStockPicker.zip。解壓縮後執行裡面的 CaslowStockSelector.exe 檔案。
+請點在右側Release選單，下載 CaslowStockPickerStockPicker.zip。解壓縮後執行裡面的 CaslowStockSelector.exe 檔案。
 
 
 **使用說明**
